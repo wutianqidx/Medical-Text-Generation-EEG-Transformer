@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 25 year old right handed woman with epilepsy since age 16, admitted with recurrent tonic-clonic seizures.
+MEDICATIONS:  Ativan, Lamictal
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is described as very drowsy.
+DESCRIPTION OF THE RECORD:  The drowsy state includes generous beta and low-voltage theta.  Vertex waves appear, as do spindles.  Brief stimulation of the patient produces a brief alerting with theta but sustained wakefulness was not identified.  Photic stimulation is performed while the patient is drifting in and out of sleep and did not activate the record.
+HR:    90 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Excessive theta in a drowsy patient.
+CLINICAL CORRELATION:  No epileptiform features were seen.  The excessive drowsiness may be due to this patient's medications or sleep deprivation.  She has eye movements into sleep which is not a pathological finding and can be seen in normal as well as well as those with sleep disturbances and depression. Prior EEGs demonstrated parietal spikes.
+
+
+
