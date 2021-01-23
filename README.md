@@ -4,7 +4,7 @@ This repo contains Pytorch implementation of CNN+Transformer on medical text gen
 
 # Dataset
 
-The dataset used is [TUH](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml) from Temple University[1]. Below is an example of input EEG and output report taken from related paper[2]. Considering relatively large file size, there are only two samples in `Dataset` folder.
+The dataset used is [TUH](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml) from Temple University[1]. Below is an example of input EEG and output report taken from related paper[2]. Considering relatively large file size, there are only two samples in [`dataset`](./dataset) folder.
 ![image1](images/image1.png)
 
 # Usage
