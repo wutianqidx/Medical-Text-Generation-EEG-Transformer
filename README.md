@@ -1,6 +1,6 @@
 # Medical-Text-Generation-EEG-Transformer
 
-This repo contains Pytorch implementation of CNN+Transformer on medical text generation. Electroencephalogram(EEG)is widely used for medical professionals to identify possible brain disorders. However, manual EEG report creation can be time-consuming and error-prone. To combat these issues, we proposed an automatic approach to generate EEG reports using Transformers. We named our model EEG Transformers, and it consists of three parts: the EEG encoder, the Transformer encoder, and the Transformer decoder. Although our model has not achieved state-of-the-art performance, it still produces promising results.
+This repo contains Pytorch implementation of CNN+Transformer on medical text generation. Electroencephalogram(EEG)is widely used for medical professionals to identify possible brain disorders. However, manual EEG report creation can be time-consuming and error-prone. To combat these issues, we proposed an automatic approach to generate EEG reports using Transformers. We named our model EEG Transformers, and it consists of three parts: the EEG encoder, the Transformer encoder, and the Transformer decoder. Although our model has not achieved state-of-the-art performance, it still produces promising results. Detailed information can be found on [`report.pdf`](./report.pdf)
 
 # Dataset
 
@@ -14,9 +14,6 @@ The dataset used is [TUH](https://www.isip.piconepress.com/projects/tuh_eeg/html
 
 #### 2. Training
 `python main.py`
-
-#### 3. Evaluating
-`python evaluate.py --test` 
 
 # Experiment
 
