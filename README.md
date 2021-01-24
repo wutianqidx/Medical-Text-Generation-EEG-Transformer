@@ -18,7 +18,8 @@ The dataset used is [TUH](https://www.isip.piconepress.com/projects/tuh_eeg/html
 # Experiment
 
 For training hyperparameters, we use learning rate of 0.001, batch size of 32, epoch of 50 and we do evaluation every 10 epochs. We use architecture table below. Layer 1-15 are encoder where we use Conv1d, MaxPool1d and BatchNorm1d where we downsample and normalize the EEG data. Layer 16 is the embedding look up table. Layer 17-18 are positional encoding where we put relative position in text sequence into the layers. Layer 19-24 and layer 25-29 are two Transformer for decoding. layer 30-32 are word-net where we match the output to text.
-![table1](images/table1.png)
+
+<img src="images/table1.png" width="70%">
 
 # Conclusion
 
