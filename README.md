@@ -26,7 +26,6 @@ For training hyperparameters, we use learning rate of 0.001, batch size of 32, e
 We proposed an encoder decoder architecture based Electroencephalogram medical generation model. It takes EEG signal data as input and output the impression and description part of the report. We use traditional stacked CNN and positional encoding for encoder and we use innovative transformer with word-net to be the decoder. The model achieves reasonable performance under METEOR and BLEU measurement considering the size of the training data. In the future we plan to train our model in full dataset and expand its functionality to predict other sections of the report.
 
 
-
 # Acknowledgement
 
 Thanks for the help from @Jialong, @Peiyao, @Kaichen and @Beichen.
